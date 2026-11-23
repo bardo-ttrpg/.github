@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./bardo-wordmark.png" width="420" alt="Bardo">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./bardo-wordmark-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./bardo-wordmark-light.png">
+    <img src="./bardo-wordmark-light.png" width="420" alt="Bardo">
+  </picture>
 </p>
 
 ---
