@@ -1,17 +1,11 @@
 <p align="center">
-  <img src="./bardo.png" width="120" height="120" alt="Bardo">
+  <img src="./bardo-wordmark.png" width="420" alt="Bardo">
 </p>
-
-<h1 align="center">Bardo</h1>
 
 ---
 
 <p align="center">
-  Your coding agent tells the story. Bardo is the referee, the world simulator and the memory.
+  Free and Open Source (MIT) Local CLI that turns your coding agent into a tabletop RPG Game Master.
   <br>
-  <a href="https://bardo.gg">https://bardo.gg</a>
-</p>
-
-<p align="center">
-  Free and open source (MIT) · No account · No API key
+  <a href="https://bardo.gg">bardo.gg</a>
 </p>
